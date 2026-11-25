@@ -35,6 +35,8 @@ Készült: **Next.js 14**, **TypeScript**, **Tailwind CSS**, **Lucide ikonok** �
    - Érthető gégerezgéses trükk és aranyszabályok minden témakörhöz.
 
 4. **Játékosítás és motiváció (Gamification):**
+   - ✍️ **Helyesírási beírós feladatok:** kiejtett alak alapján [baráccság] a tanulónak be kell gépelnie a helyes írásmódot (barátság).
+   - 🎲 **Kevert válaszlehetőségek:** a feleletválasztós kérdéseknél a jó válasz mindig véletlenszerű helyen jelenik meg.
    - ⭐ **Csillaggyűjtés** és szintértékelés (1–3 csillag minden pályán).
    - 🏅 **Jelvényrendszer:** kitüntetések a témakörök és a bajnokság teljesítéséért.
    - 🎉 **Konfettieső** és beépített tiszta szintetizált sikerhangok (offline is működik, nem kell külső hangfájl).
@@ -75,7 +77,7 @@ mshtörvények/
 │   │   └── BadgesModal.tsx      # Jelvények áttekintése
 │   ├── data/
 │   │   ├── laws.ts              # 5. osztályos tananyag, definíciók és párok
-│   │   └── questions.ts         # Több mint 60 lépcsőzetes gyakorlófeladat
+│   │   └── questions.ts         # Több mint 75 lépcsőzetes feladat és helyesírási beírós feladvány
 │   ├── types/
 │   │   └── index.ts             # TypeScript interfészek és típusok
 │   └── utils/
